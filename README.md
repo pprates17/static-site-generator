@@ -1,1 +1,1 @@
-# Boot.dev Static Site Generator lesson
+# Boot.dev Static Site Generator Lesson
